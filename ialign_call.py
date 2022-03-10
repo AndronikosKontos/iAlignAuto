@@ -5,9 +5,9 @@ import time
 start = time.time()
 os.chdir("/home/andronikos/Documents/ialign_py")
 
-#
+
 # Bash command arguments
-#
+
 # The first one is the path to the perl script of iAlign
 # -p -> contains the pdb files "/NIL/lib"
 # -w -> output files will be saved "/ialign_py/outputs_new"
